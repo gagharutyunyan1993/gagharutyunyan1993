@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Gagik</h1>
 
-<img align="right" alt="Coding" width="765" src="https://i.pinimg.com/originals/cc/c2/ab/ccc2ab0a383bf52bac28cb8546d1afc2.gif">
+<img align="right" alt="Coding" width="256" src="https://i.pinimg.com/originals/cc/c2/ab/ccc2ab0a383bf52bac28cb8546d1afc2.gif">
 
 # 💫 About Me :
 - 💬 Started working more than 4 years ago, <br/> deep knowledge of Vanilla JS likewise modern <br/>FE stack of technologies.
